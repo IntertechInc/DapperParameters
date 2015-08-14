@@ -5,6 +5,6 @@ Facade of Dappers DynamicParameters class to facilitate unit testing.
 * Interface:       IDapperParameters
 * Implementation:  DapperParameters
 
-Moq example:
+SimpleInjector example:
 
     container.Register<IDapperParameters, DapperParameters>(Lifestyle.Transient);
