@@ -8,3 +8,6 @@ Facade of Dappers DynamicParameters class to facilitate unit testing.
 SimpleInjector example:
 
     container.Register<IDapperParameters, DapperParameters>(Lifestyle.Transient);
+
+## Use in conjunction with DapperWrapper
+When used with [DapperWrapper](https://github.com/half-ogre/dapper-wrapper), it is possible to unit test your data layer.
