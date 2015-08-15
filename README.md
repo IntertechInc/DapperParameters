@@ -11,3 +11,6 @@ SimpleInjector example:
 
 ## Use in conjunction with DapperWrapper
 When used with [DapperWrapper](https://github.com/half-ogre/dapper-wrapper), it is possible to unit test your data layer.
+
+## Sample Unit Tests
+Sample unit tests (and setups) are available in the source using Moq and SimpleInjector.

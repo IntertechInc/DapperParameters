@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intertech.Example.DataTier", "Intertech.Example.DataTier\Intertech.Example.DataTier.csproj", "{D8937460-688A-461D-8E93-E048E69B12CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intertech.Facade.UnitTests", "Intertech.Facade.UnitTests\Intertech.Facade.UnitTests.csproj", "{26904C0D-5FAB-4890-AEBF-063DDF5B3B91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{810D4E7C-E1DA-4B87-8AAC-BF25380DB737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{810D4E7C-E1DA-4B87-8AAC-BF25380DB737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{810D4E7C-E1DA-4B87-8AAC-BF25380DB737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8937460-688A-461D-8E93-E048E69B12CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8937460-688A-461D-8E93-E048E69B12CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8937460-688A-461D-8E93-E048E69B12CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8937460-688A-461D-8E93-E048E69B12CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26904C0D-5FAB-4890-AEBF-063DDF5B3B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26904C0D-5FAB-4890-AEBF-063DDF5B3B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26904C0D-5FAB-4890-AEBF-063DDF5B3B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26904C0D-5FAB-4890-AEBF-063DDF5B3B91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
