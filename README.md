@@ -3,6 +3,8 @@ Facade of Dappers DynamicParameters class to facilitate unit testing.
 
 Available on [NuGet](https://www.nuget.org/packages/DapperParameters/)
 
+Blog post [here](http://www.intertech.com/Blog/unit-test-dapper-with-dapperparameters/)
+
 ## Define in your dependency injection tool of choice
 * Interface:       IDapperParameters
 * Implementation:  DapperParameters
